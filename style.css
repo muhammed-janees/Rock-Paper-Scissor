@@ -1,0 +1,22 @@
+body{
+  background-color: black;
+  text-align: center;
+}
+.btn{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  margin: 20px 20px;
+  border: 2px solid white;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+p{
+  color: white;
+  margin: 50px 0;
+  font-size: 20px;
+}
+.icon{
+  height: 50px;
+}
